@@ -37,7 +37,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
-
-
-![image-20220118233434248](C:\Users\Minas 1\AppData\Roaming\Typora\typora-user-images\image-20220118233434248.png))
-

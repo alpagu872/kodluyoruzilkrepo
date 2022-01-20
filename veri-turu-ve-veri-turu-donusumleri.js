@@ -10,5 +10,5 @@ console.log(
 
 console.log(
     "stringPrice: ",
-    typeof(stringPrice)
+    typeof(stringPrice) 
     )

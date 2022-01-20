@@ -37,4 +37,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 MIT
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e827008436f65dbb7746f4843e7e2057448b7e35

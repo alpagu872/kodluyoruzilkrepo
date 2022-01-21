@@ -29,3 +29,4 @@ domObject.innerHTML = info
 }
 
 domIdWriteInfo('greeting', greetings2("Lorem", "Ipsum"))
+

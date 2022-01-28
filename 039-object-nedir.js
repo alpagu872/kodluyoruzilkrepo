@@ -9,3 +9,9 @@ let item2 = {}
 
 console.log("item1" ,typeof (item1))
 console.log("item2", typeof(item2))
+
+//object oluşturmak
+let item3 = {}
+let item4 = new Object()
+
+console.log("obj1", object1)
